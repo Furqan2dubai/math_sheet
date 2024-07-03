@@ -1,7 +1,9 @@
 # Demo
 
 https://math.furqanhussain.com
+
 Developed By Furqan Hussain
+
 Technology: Vue 3, Vuetify
 
 # vue
